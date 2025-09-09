@@ -1,0 +1,203 @@
+[
+  {
+    
+    "name": "Figura Broly",
+    "category": "toys",
+    "amount": 61899,
+    "shortsDescription": "Figura Broly Dragon Ball Super",
+    "largeDescription": "Increíble figura de acción de Super Saiyan Broly  detallada de tu personaje favorito de Dragon Ball Super para coleccionar y pasar horas de diversión creando nuevas historias y batallas legendarias..",
+    "stock": 73,
+    "brand": "Bandai",
+    "freeDelivery": false,
+    "ageFrom": 3,
+    "ageTo": 100,
+    "img": "https://i5.walmartimages.com/seo/Bandai-Dragon-Ball-Super-SAIYAN-BROLY-Action-Figure_dc00ce28-2827-4dd9-af2b-6e7795b89863.713b5fb7d08aa24b84c262246fbbced8.jpeg"
+    
+  },
+  {
+    
+    "name": "Figura Goku ",
+    "category": "category 2",
+    "amount": 76699,
+    "shortsDescription": "Figura Goku Dragon Ball Super",
+    "largeDescription": "Juguetes articulados Al tener marcadas las articulaciones podrás manejar y acomodar tus figuras como más te guste. Con ellas, vas a poder crear historias en la que los personajes puedan movilizarse y cobrar vida..",
+    "stock": 100,
+    "brand": "Bandai",
+    "freeDelivery": false,
+    "ageFrom": 3,
+    "ageTo": 100,
+    "img": "https://juguetestiosam.com/663656-large_default/dragon-ball-figura-goku-blue.jpg"
+    
+  },
+  {
+   
+    "name": "Figura Bills",
+    "category": "category 3",
+    "amount": 50999,
+    "shortsDescription": "Figura Bills Dragon Ball Super",
+    "largeDescription": "Juguetes articulados Al tener marcadas las articulaciones podrás manejar y acomodar tus figuras como más te guste. Con ellas, vas a poder crear historias en la que los personajes puedan movilizarse y cobrar vida. .",
+    "stock": 64,
+    "brand": "Bandai",
+    "freeDelivery": false,
+    "ageFrom": 3,
+    "ageTo": 100,
+    "img": "https://hadouken.com.ar/102619-superlarge_default/dragon-ball-z-bills-dragon-stars.jpg"
+    
+  },
+  {
+    
+    "name": "Figura Vegeta",
+    "category": "category 4",
+    "amount": 76999,
+    "shortsDescription": "Figura Vegeta Dragon Ball Super",
+    "largeDescription": "Increíble figura de acción de Super Saiyan Blue Vegeta detallada de tu personaje favorito de Dragon Ball Super para coleccionar y pasar horas de diversión creando nuevas historias y batallas legendarias..",
+    "stock": 87,
+    "brand": "Bandai",
+    "freeDelivery": false,
+    "ageFrom": 3,
+    "ageTo": 100,
+    "img": "https://felix.com.pa/cdn/shop/files/388-36272_2_1200x.png?v=1726244727"
+    
+  },
+  {
+    
+    "name": "Pokemon Pikachu",
+    "category": "category 5",
+    "amount": 24599,
+    "shortsDescription": "Juguete Pokemon Articulado Pikachu",
+    "largeDescription": "¡La figura de Pikachu es imprescindible para cualquier fan de Pokémon! Este set incluye una figura de acción detallada de Pikachu. Perfecto para jugar, coleccionar o exhibir",
+    "stock": 48,
+    "brand": "Pokemon",
+    "freeDelivery": false,
+    "ageFrom": 5,
+    "ageTo": 50,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_782217-MLA80066001311_102024-O.webp"
+    
+  },
+  {
+    
+    "name": "Pokemon Charizard",
+    "category": "category 6",
+    "amount": 24999,
+    "shortsDescription": "Juguete Pokemon Articulado Charizard",
+    "largeDescription": "¡La figura de Charizard es imprescindible para cualquier fan de Pokémon! Este set incluye una figura de acción detallada de Charizard. Perfecto para jugar, coleccionar o exhibir.",
+    "stock": 49,
+    "brand": "Pokemon",
+    "freeDelivery": false,
+    "ageFrom": 5,
+    "ageTo": 50,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_697173-MLA81907866832_012025-O.webp"
+  },
+  {
+    
+    "name": "Pokemon Tyranitar",
+    "category": "category 7",
+    "amount": 24199,
+    "shortsDescription": "Juguete Pokemon Articulado Tyranitar",
+    "largeDescription": "¡La figura de Tyranitar es imprescindible para cualquier fan de Pokémon! Este set incluye una figura de acción detallada de Tyranitar. Perfecto para jugar, coleccionar o exhibir.",
+    "stock": 25,
+    "brand": "Pokemon",
+    "freeDelivery": false,
+    "ageFrom": 5,
+    "ageTo": 50,
+    "img": "https://http2.mlstatic.com/D_NQ_NP_910386-MLA74069778134_012024-O.webp"
+  },
+  {
+    
+    "name": " Pokemon Eeve",
+    "category": "category 8",
+    "amount": 24199,
+    "shortsDescription": "Juguete Pokemon Articulado Eeve",
+    "largeDescription": "¡La figura de Eeve es imprescindible para cualquier fan de Pokémon! Este set incluye una figura de acción detallada de Eeve. Perfecto para jugar, coleccionar o exhibir.",
+    "stock": 28,
+    "brand": "Barbie",
+    "freeDelivery": false,
+    "ageFrom": 5,
+    "ageTo": 96,
+    "img": "https://hadouken.com.ar/97841-superlarge_default/bandai-hobby-model-kit-pokemon-eevee.jpg"
+  },
+  {
+    
+    "name": "Barbie Con Mascota",
+    "category": "category 9",
+    "amount": 94999,
+    "shortsDescription": "Barbie Extra Muñeca Con Mascota",
+    "largeDescription": "Barbie Extra Muñeca Con Mascota ¡Las muñecas Barbie están a la moda con colores brillantes y realmente marcan la diferencia! Cada muñeca tiene su propio estilo único que es alegre.",
+    "stock": 69,
+    "brand": "Barbie",
+    "freeDelivery": false,
+    "ageFrom": 5,
+    "ageTo": 50,
+    "img": "https://kinderlandar.vtexassets.com/arquivos/ids/193303/imagen---2024-08-13T200807.177.jpg?v=638763624542130000"
+  },
+  {
+    
+    "name": "Barbie Sirena",
+    "category": "category 10",
+    "amount": 59999,
+    "shortsDescription": "Muñeca Barbie Sirena Dreamtopia",
+    "largeDescription": "Muñeca Barbie Sirena, La imaginación de las niñas se sumerge en historias fantásticas! Las sirenas Barbie® causan sensación con su colorido corpiño y su cola brillante, Para traer la diversión.",
+    "stock": 100,
+    "brand": "Barbie",
+    "freeDelivery": false,
+    "ageFrom": 3,
+    "ageTo": 50,
+    "img": "https://www.perozzi.com.ar/55878-large_default/mattel-barbie-muneca-sirena-hgr-04.jpg"
+  },
+  {
+    
+    "name": "Barbie Mattel",
+    "category": "category 11",
+    "amount": 60999,
+    "shortsDescription": "Muñeca Barbie Totally Mattel",
+    "largeDescription": "La muñeca Barbie Totally Hair luce su propio peinado, está inspirada en la muñeca más vendida que debutó por primera vez hace 30 años Barbie La muñeca tiene 8.5 pulgadas de pelo.",
+    "stock": 21,
+    "brand": "brand 11",
+    "freeDelivery": false,
+    "ageFrom": 3,
+    "ageTo": 50,
+    "img": "https://kinderlandar.vtexassets.com/arquivos/ids/185360-800-450?v=638270284977600000&width=800&height=450&aspect=true"
+  },
+  {
+    
+    "name": "Barbie Princesa ",
+    "category": "category 12",
+    "amount": 50999,
+    "shortsDescription": "Muñeca Barbie Princesa Dreamtopia",
+    "largeDescription": "Muñeca Barbie Princesa Inspira historias y diversión a la moda con un look de cuento de hadas y un pelo extralargo . Las jóvenes estilistas podrán cepillar el largo y colorido..",
+    "stock": 26,
+    "brand": "Barbie",
+    "freeDelivery": false,
+    "ageFrom": 5,
+    "ageTo": 50,
+    "img": "https://www.tiendaimco.com.ar/media/catalog/product/cache/4e187a3216125186f353d1ef896e6af4/6/0/608700_img6618c032ca3ed8.59584591_2024-04-12_02_00_10.jpg"
+  },
+  {
+    
+    "name": "Muñeco Darth Vader",
+    "category": "Coleccionable ",
+    "amount": "79999",
+    "shortsDescription": "Muñeco Darth Vader Star Wars",
+    "largeDescription": "Darth Vader – The Black Series Durante la Guerra Civil Galáctica, Darth Vader se propuso encontrar la ubicación secreta de la Alianza Rebelde y recuperar los esquemas del arma secreta del Imperio, la Estrella de la Muerte.",
+    "stock": "56",
+    "brand": "Hasbro",
+    "freeDelivery": true,
+    "ageFrom": "5",
+    "ageTo": "80",
+    "img": "https://http2.mlstatic.com/D_NQ_NP_744031-MLA80646816422_112024-O.webp"
+  },
+  {
+    
+    "name": "Ajedrez",
+    "category": "Juego de mesa",
+    "amount": "9004",
+    "shortsDescription": "Texto de prueba",
+    "largeDescription": "",
+    "stock": "022",
+    "brand": "Chessmast",
+    "freeDelivery": true,
+    "ageFrom": "7",
+    "ageTo": "80",
+    "img": "https://plus.unsplash.com/premium_photo-1672855191351-e26398f27e5f?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlc3N8ZW58MHx8MHx8fDA%3D"
+  }
+]
