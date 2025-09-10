@@ -43,9 +43,10 @@ export const createProduct = async (req, res) => { //  controlador para crear pr
             })
         }
         const base = process.env.BASE_URL_API?.trim().replace(/\/$/, "");
+
         const newProd = await Products.create({
             ...body,
-            img: `${base}/images/${image._id}`
+            img: `/images/${image._id}`
         })
 
         fs.rm("./" + file.path, error => {
@@ -90,11 +91,12 @@ export const getProducts = async (req, res) => { // para traer los productos car
         }) 
             .skip(skip) // para las paginaciones 
             .limit(documentsPerPage) // x2
-
+        const productsWithImgURL = products.map(({_doc}) => ({..._doc, img: `${!_doc.img.includes("http") ? process.env.BASE_URL_API : ""}${_doc.img}`}))
+        console.log(productsWithImgURL)
         res.json({
-            ok:true,
-            products,
-            pageNumber: parseInt(query.pageNumber) || 1 ,
+            ok: true,
+            products: productsWithImgURL,
+            pageNumber: parseInt(query.pageNumber) || 1,
             totalPages: Math.ceil(totalDocs / documentsPerPage)
         })
         
